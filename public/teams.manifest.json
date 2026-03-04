@@ -1,0 +1,335 @@
+{
+  "baseUrl": "/Logos%20equipos/",
+  "teams": [
+    {
+      "name": "Amancay",
+      "file": "Amancay.png",
+      "logo": "/Logos%20equipos/Amancay.png"
+    },
+    {
+      "name": "Argentino",
+      "file": "Argentino.png",
+      "logo": "/Logos%20equipos/Argentino.png"
+    },
+    {
+      "name": "Atenas",
+      "file": "Atenas.png",
+      "logo": "/Logos%20equipos/Atenas.png"
+    },
+    {
+      "name": "AtléTico San Isidro",
+      "file": "Atlético San Isidro.png",
+      "logo": "/Logos%20equipos/Atlético San Isidro.png"
+    },
+    {
+      "name": "Barrio Parque",
+      "file": "Barrio Parque.png",
+      "logo": "/Logos%20equipos/Barrio Parque.png"
+    },
+    {
+      "name": "Berazategui",
+      "file": "Berazategui.png",
+      "logo": "/Logos%20equipos/Berazategui.png"
+    },
+    {
+      "name": "Bigua",
+      "file": "Bigua.png",
+      "logo": "/Logos%20equipos/Bigua.png"
+    },
+    {
+      "name": "Boca",
+      "file": "Boca.png",
+      "logo": "/Logos%20equipos/Boca.png"
+    },
+    {
+      "name": "Bochas",
+      "file": "Bochas.png",
+      "logo": "/Logos%20equipos/Bochas.png"
+    },
+    {
+      "name": "Centenario",
+      "file": "Centenario.png",
+      "logo": "/Logos%20equipos/Centenario.png"
+    },
+    {
+      "name": "Central Entrerriano",
+      "file": "Central Entrerriano.png",
+      "logo": "/Logos%20equipos/Central Entrerriano.png"
+    },
+    {
+      "name": "Chanares",
+      "file": "Chanares.png",
+      "logo": "/Logos%20equipos/Chanares.png"
+    },
+    {
+      "name": "Ciclista",
+      "file": "Ciclista.png",
+      "logo": "/Logos%20equipos/Ciclista.png"
+    },
+    {
+      "name": "Club AtléTico Estudiantes",
+      "file": "Club Atlético Estudiantes.png",
+      "logo": "/Logos%20equipos/Club Atlético Estudiantes.png"
+    },
+    {
+      "name": "ColóN SF",
+      "file": "Colón SF.png",
+      "logo": "/Logos%20equipos/Colón SF.png"
+    },
+    {
+      "name": "Comunicaciones",
+      "file": "Comunicaciones.png",
+      "logo": "/Logos%20equipos/Comunicaciones.png"
+    },
+    {
+      "name": "Deportivo Norte",
+      "file": "Deportivo Norte.png",
+      "logo": "/Logos%20equipos/Deportivo Norte.png"
+    },
+    {
+      "name": "Deportivo Viedma",
+      "file": "Deportivo Viedma.png",
+      "logo": "/Logos%20equipos/Deportivo Viedma.png"
+    },
+    {
+      "name": "El Talar",
+      "file": "El Talar.png",
+      "logo": "/Logos%20equipos/El Talar.png"
+    },
+    {
+      "name": "Ferro",
+      "file": "Ferro.png",
+      "logo": "/Logos%20equipos/Ferro.png"
+    },
+    {
+      "name": "Fusion Riojana",
+      "file": "Fusion Riojana.png",
+      "logo": "/Logos%20equipos/Fusion Riojana.png"
+    },
+    {
+      "name": "GELP",
+      "file": "GELP.png",
+      "logo": "/Logos%20equipos/GELP.png"
+    },
+    {
+      "name": "Gimnasia Cr",
+      "file": "Gimnasia cr.png",
+      "logo": "/Logos%20equipos/Gimnasia cr.png"
+    },
+    {
+      "name": "Gorriones",
+      "file": "Gorriones.png",
+      "logo": "/Logos%20equipos/Gorriones.png"
+    },
+    {
+      "name": "Hindu",
+      "file": "Hindu.png",
+      "logo": "/Logos%20equipos/Hindu.png"
+    },
+    {
+      "name": "Hispano Americano",
+      "file": "Hispano Americano.png",
+      "logo": "/Logos%20equipos/Hispano Americano.png"
+    },
+    {
+      "name": "HuracáN Las Heras",
+      "file": "Huracán Las Heras.png",
+      "logo": "/Logos%20equipos/Huracán Las Heras.png"
+    },
+    {
+      "name": "Independiente BBC",
+      "file": "Independiente BBC.png",
+      "logo": "/Logos%20equipos/Independiente BBC.png"
+    },
+    {
+      "name": "Independiente De Oliva",
+      "file": "Independiente de Oliva.png",
+      "logo": "/Logos%20equipos/Independiente de Oliva.png"
+    },
+    {
+      "name": "Independiente Neuquen",
+      "file": "Independiente neuquen.png",
+      "logo": "/Logos%20equipos/Independiente neuquen.png"
+    },
+    {
+      "name": "Instituto",
+      "file": "Instituto.png",
+      "logo": "/Logos%20equipos/Instituto.png"
+    },
+    {
+      "name": "Jujuy Basquet",
+      "file": "Jujuy Basquet.png",
+      "logo": "/Logos%20equipos/Jujuy Basquet.png"
+    },
+    {
+      "name": "La Union",
+      "file": "La Union.png",
+      "logo": "/Logos%20equipos/La Union.png"
+    },
+    {
+      "name": "La UnióN C",
+      "file": "La unión C.png",
+      "logo": "/Logos%20equipos/La unión C.png"
+    },
+    {
+      "name": "Lanus",
+      "file": "Lanus.png",
+      "logo": "/Logos%20equipos/Lanus.png"
+    },
+    {
+      "name": "Montmartre",
+      "file": "Montmartre.png",
+      "logo": "/Logos%20equipos/Montmartre.png"
+    },
+    {
+      "name": "Nautico",
+      "file": "Nautico.png",
+      "logo": "/Logos%20equipos/Nautico.png"
+    },
+    {
+      "name": "Obera",
+      "file": "Obera.png",
+      "logo": "/Logos%20equipos/Obera.png"
+    },
+    {
+      "name": "Obras",
+      "file": "Obras.png",
+      "logo": "/Logos%20equipos/Obras.png"
+    },
+    {
+      "name": "Olimpico",
+      "file": "Olimpico.png",
+      "logo": "/Logos%20equipos/Olimpico.png"
+    },
+    {
+      "name": "PeñArol",
+      "file": "Peñarol.png",
+      "logo": "/Logos%20equipos/Peñarol.png"
+    },
+    {
+      "name": "Pergamino",
+      "file": "Pergamino.png",
+      "logo": "/Logos%20equipos/Pergamino.png"
+    },
+    {
+      "name": "Pico",
+      "file": "Pico.png",
+      "logo": "/Logos%20equipos/Pico.png"
+    },
+    {
+      "name": "Platense",
+      "file": "Platense.png",
+      "logo": "/Logos%20equipos/Platense.png"
+    },
+    {
+      "name": "Provincial",
+      "file": "Provincial.png",
+      "logo": "/Logos%20equipos/Provincial.png"
+    },
+    {
+      "name": "Quilmes",
+      "file": "Quilmes.png",
+      "logo": "/Logos%20equipos/Quilmes.png"
+    },
+    {
+      "name": "Quimsa",
+      "file": "Quimsa.png",
+      "logo": "/Logos%20equipos/Quimsa.png"
+    },
+    {
+      "name": "Racing (Ch)",
+      "file": "Racing (Ch).png",
+      "logo": "/Logos%20equipos/Racing (Ch).png"
+    },
+    {
+      "name": "Racing De Avellaneda",
+      "file": "Racing de Avellaneda.png",
+      "logo": "/Logos%20equipos/Racing de Avellaneda.png"
+    },
+    {
+      "name": "Regatas",
+      "file": "Regatas.png",
+      "logo": "/Logos%20equipos/Regatas.png"
+    },
+    {
+      "name": "Riachuelo",
+      "file": "Riachuelo.png",
+      "logo": "/Logos%20equipos/Riachuelo.png"
+    },
+    {
+      "name": "Rivadavia",
+      "file": "Rivadavia.png",
+      "logo": "/Logos%20equipos/Rivadavia.png"
+    },
+    {
+      "name": "Rocamora",
+      "file": "Rocamora.png",
+      "logo": "/Logos%20equipos/Rocamora.png"
+    },
+    {
+      "name": "Salta Basket",
+      "file": "Salta basket.png",
+      "logo": "/Logos%20equipos/Salta basket.png"
+    },
+    {
+      "name": "San Lorenzo",
+      "file": "San Lorenzo.png",
+      "logo": "/Logos%20equipos/San Lorenzo.png"
+    },
+    {
+      "name": "San Martin De Corrientes",
+      "file": "San Martin De Corrientes.png",
+      "logo": "/Logos%20equipos/San Martin De Corrientes.png"
+    },
+    {
+      "name": "San Jose",
+      "file": "San jose.png",
+      "logo": "/Logos%20equipos/San jose.png"
+    },
+    {
+      "name": "Santa Paula De GáLvez",
+      "file": "Santa Paula de Gálvez.png",
+      "logo": "/Logos%20equipos/Santa Paula de Gálvez.png"
+    },
+    {
+      "name": "Sportivo Nau",
+      "file": "Sportivo Nau.png",
+      "logo": "/Logos%20equipos/Sportivo Nau.png"
+    },
+    {
+      "name": "Suardi",
+      "file": "Suardi.png",
+      "logo": "/Logos%20equipos/Suardi.png"
+    },
+    {
+      "name": "Union Florida",
+      "file": "Union Florida.png",
+      "logo": "/Logos%20equipos/Union Florida.png"
+    },
+    {
+      "name": "Union SF",
+      "file": "Union SF.png",
+      "logo": "/Logos%20equipos/Union SF.png"
+    },
+    {
+      "name": "UnióN De Mar Del Plata",
+      "file": "Unión de Mar del Plata.png",
+      "logo": "/Logos%20equipos/Unión de Mar del Plata.png"
+    },
+    {
+      "name": "Villa Mitre",
+      "file": "Villa Mitre.png",
+      "logo": "/Logos%20equipos/Villa Mitre.png"
+    },
+    {
+      "name": "Villa San MartíN",
+      "file": "Villa San Martín.png",
+      "logo": "/Logos%20equipos/Villa San Martín.png"
+    },
+    {
+      "name": "Zarate",
+      "file": "Zarate.png",
+      "logo": "/Logos%20equipos/Zarate.png"
+    }
+  ]
+}
