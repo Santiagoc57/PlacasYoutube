@@ -60,6 +60,8 @@ const FLEX_ALIAS_PAIRS: Array<[string, string]> = [
   ["Ferro", "Ferro Carril Oeste"],
   ["Gimnasia (cr)", "Gimnasia y Esgrima de Comodoro Rivadavia"],
   ["Gimnasia cr", "Gimnasia y Esgrima de Comodoro Rivadavia"],
+  ["Gimnasia de Comodoro", "Gimnasia y Esgrima de Comodoro Rivadavia"],
+  ["Gimnasia de Comodoro", "Gimnasia Cr"],
   ["Independiente de Oliva", "Club Atlético Independiente de Oliva"],
   ["Independiente Oliva", "Club Atlético Independiente de Oliva"],
   ["Independiente (O)", "Club Atlético Independiente de Oliva"],
@@ -85,6 +87,8 @@ const FLEX_ALIAS_PAIRS: Array<[string, string]> = [
   ["San Martin", "Club San Martín de Corrientes"],
   ["Unión SF", "Club Atlético Unión (Santa Fe)"],
   ["Union SF", "Club Atlético Unión (Santa Fe)"],
+  ["Unión de Santa Fe", "Club Atlético Unión (Santa Fe)"],
+  ["Union de Santa Fe", "Club Atlético Unión (Santa Fe)"],
   ["Zárate", "Zárate Basket"],
   ["Zarate", "Zárate Basket"],
   ["Biguá", "Bigua"],
@@ -1298,7 +1302,10 @@ function normalizeName(name: string): string {
     "oberatc": "obera",
     "sanmartin": "san martin",
     "sanmartinc": "san martin corrientes",
-    "sanmartinctes": "san martin corrientes"
+    "sanmartinctes": "san martin corrientes",
+    "gimnasia de comodoro": "gimnasia cr",
+    "gimnasia de comodoro rivadavia": "gimnasia cr",
+    "union de santa fe": "union sf",
   }
 
   return corrections[normalized] || normalized
